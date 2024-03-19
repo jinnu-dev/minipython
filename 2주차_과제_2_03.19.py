@@ -5,7 +5,6 @@ money = int(input("투입한 돈 : "))
 values = int(input("물건값 : "))
 diff = money - values
 print("거스름돈 : ",diff)
-# chr5 = di
-# chr1 = 
+print("500원 동전의 개수:",diff//500,"\n100원 동전의 개수: ",(diff%500)/100)
 
-# print("500원 동전의 개수:","\n100원 동전의 개수: ")
+# // 몫 % 나머지
