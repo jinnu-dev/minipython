@@ -1,0 +1,5 @@
+n1 = int(input("1번 숫자를 입력하세요: "))
+n2 = int(input("2번 숫자를 입력하세요: "))
+print(n1 == n2, n1 != n2) 
+print(n1 > n2, n1 < n2)
+print(n1 >= n2, n1 <= n2)
