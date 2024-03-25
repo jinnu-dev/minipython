@@ -57,8 +57,3 @@ print(num1,"*",num2,'=',result3)
 print(num1,"/",num2,'=',result4)
 print(num1,"%",num2,'=',result5)
 print(num1,"**",num2,'=',result6)
-
-
-
-
-
