@@ -25,6 +25,3 @@ elif hand == "보":
         print("나 : {0}  vs 컴퓨터 : {1}\n결과는 이겼습니다.".format(hand, comhand))
     elif comhand == "보" :
         print("나 : {0}  vs 컴퓨터 : {1}\n결과는 비겼습니다.".format(hand, comhand))
-
-    
-# 리스트 딕셔너리 튜플
